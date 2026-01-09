@@ -23,7 +23,7 @@ Fully automate VM creation and OS installation (unattended), with all specs read
 
 ## Step-by-step setup
 
-### 1) Create a config file (`vm.conf`)
+### 1) Configure the config file (`vm.conf`)
 
 Example:
 ```properties
